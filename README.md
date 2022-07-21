@@ -1,5 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://Rishab29-code.github.io)
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://Rishab29-code.github.io)
 
 <h1 align="center">Hi 👋, I'm Rishab Sharma</h1>
 
@@ -7,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishab29-code&label=Profile%20views&color=0e75b6&style=flat" alt="rishab29-code" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif")
+
 
 - 🔭 I’m currently working on **AI chatbot**
 

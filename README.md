@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **AI chatbot**
+- 🔭 I’m currently working on **BigData-ETL Pipeline**
 
 
-- 🌱 I’m currently learning **Reactjs,MongoDB**
+- 🌱 I’m currently learning **Pyspark,ML**
 
 
-- 💬 Ask me about **Java,C++,C,HTML,CSS,SQL**
+- 💬 Ask me about **Nodejs,Reactjs,Big data,SQL**
 
 
 - 📫 How to reach me **rihandev36@gmail.com**

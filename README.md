@@ -7,19 +7,18 @@
 
 
 
-- 🔭 I’m currently working on **BigData-ETL Pipeline**
+- 🔭 I’m currently working on **BigData,ETL concepts**
 
 
-- 🌱 I’m currently learning **Pyspark,ML**
+- 🌱 I’m currently learning **Pyspark,Databricks,ML**
 
 
-- 💬 Ask me about **Nodejs,Reactjs,Big data,SQL**
+- 💬 Ask me about **Snowflake,Databricks,etl pipelines**
 
 
-- 📫 How to reach me **rihandev36@gmail.com**
+- 📫 How to reach me **recruitrishab@gmail.com**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wdfmlzy1jdQtoBirBQmXts1GlZ5BgEfn/view?usp=sharing](https://drive.google.com/file/d/1Wdfmlzy1jdQtoBirBQmXts1GlZ5BgEfn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
